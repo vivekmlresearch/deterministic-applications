@@ -1,4 +1,4 @@
-# Deterministic Universe v2
+# Deterministic App v2
 
 **An offline Android laboratory for playing with, visualizing, explaining and benchmarking deterministic graph algorithms.**
 
