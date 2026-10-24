@@ -1,5 +1,7 @@
 # Deterministic App v2
 
+**Version 1:-**
+
 **An offline Android laboratory for playing with, visualizing, explaining and benchmarking deterministic graph algorithms.**
 
 > **Product goal:** make algorithm behaviour visible and measurable, then evolve the project from a reproducible engineering portfolio into a polished educational app on Google Play.
@@ -7,6 +9,11 @@
 ![Three-tab UI overview](docs/ui-overview.svg)
 
 _High-level preview of the three Version 2 tabs. Replace this with final phone and tablet captures after release-candidate testing._
+
+**Version 2:-**
+
+<img width="1887" height="887" alt="image" src="https://github.com/user-attachments/assets/1a6c4c4c-a1ba-4c35-9989-9be46cf4cf09" />
+
 
 ## Why this project exists
 
@@ -113,10 +120,6 @@ Before publishing:
 - Confirm that icons, fonts, screenshots and graphics are original or properly licensed.
 - Do not interpret MIT as a warranty, trademark grant or endorsement.
 - Keep publisher branding and signing credentials under publisher control.
-
-## Responsible positioning
-
-This is an educational and engineering application. Device timings are illustrative, not scientific cross-device benchmarks. The project does not claim that one algorithm is universally superior; selection depends on graph structure, edge constraints, memory budget and required guarantees.
 
 ## Roadmap beyond v2
 
