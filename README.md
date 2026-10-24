@@ -1,4 +1,3 @@
-# Deterministic App v2
 
 **Version 1:-**
 
