@@ -1,5 +1,5 @@
 
-**Version 1:-**
+**App 1:-**
 
 **An offline Android laboratory for playing with, visualizing, explaining and benchmarking deterministic graph algorithms.**
 
@@ -9,7 +9,7 @@
 
 _High-level preview of the three Version 2 tabs. Replace this with final phone and tablet captures after release-candidate testing._
 
-**Version 2:-**
+**App 2:-**
 
 <img width="1887" height="887" alt="image" src="https://github.com/user-attachments/assets/1a6c4c4c-a1ba-4c35-9989-9be46cf4cf09" />
 
