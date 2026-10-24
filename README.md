@@ -13,6 +13,9 @@ _High-level preview of the three Version 2 tabs. Replace this with final phone a
 
 <img width="1887" height="887" alt="image" src="https://github.com/user-attachments/assets/1a6c4c4c-a1ba-4c35-9989-9be46cf4cf09" />
 
+<img width="1882" height="692" alt="image" src="https://github.com/user-attachments/assets/5d2f7083-8539-4972-801c-b32d28f15e1b" />
+
+<img width="1860" height="892" alt="image" src="https://github.com/user-attachments/assets/556b5dcc-6045-484f-9c97-a38633749ebe" />
 
 ## Why this project exists
 
